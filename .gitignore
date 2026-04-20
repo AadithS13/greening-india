@@ -1,0 +1,15 @@
+# binaries
+main
+*.exe
+
+# env
+.env
+
+# logs
+*.log
+
+# mac
+.DS_Store
+
+# docker
+postgres_data/
