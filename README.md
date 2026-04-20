@@ -13,7 +13,7 @@ cd greening-india
 
 ### 2. Run the application
 
-docker-compose up --build
+docker-compose up --buildgit init
 
 ---
 
